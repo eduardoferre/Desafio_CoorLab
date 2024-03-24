@@ -5,7 +5,7 @@
       "name": "Expresso Oriente",
       "price_confort": "R$ 52.10",
       "price_econ": "R$ 21.50",
-      "city": "São Paulo",
+      "city": "Sao Paulo",
       "duration": "12h",
       "seat": "12C",
       "bed": "5A"
@@ -55,7 +55,7 @@
       "name": "ZazTraz",
       "price_confort": "R$ 82.09",
       "price_econ": "R$ 71.19",
-      "city": "São Paulo",
+      "city": "Sao Paulo",
       "duration": "8h",
       "seat": "20B",
       "bed": "6A"
@@ -135,7 +135,7 @@
       "name": "Rapido Jacutinga",
       "price_confort": "R$ 315.72",
       "price_econ": "R$ 218.14",
-      "city": "São Paulo",
+      "city": "Sao Paulo",
       "duration": "2h",
       "seat": "20B",
       "bed": "4C"
@@ -145,7 +145,7 @@
       "name": "Rapido Jacutinga",
       "price_confort": "R$ 913.67",
       "price_econ": "R$ 412.14",
-      "city": "Rio de Janiero",
+      "city": "Rio de Janeiro",
       "duration": "3h",
       "seat": "20A",
       "bed": "2C"
